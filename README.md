@@ -1,3 +1,4 @@
+CREDITS: [Spooks4576](https://github.com/Spooks4576), [WillyJL](https://github.com/Willy-JL)
 # Tandroid-Payloads
 Payloads for BLE Advertising in Android devices
 
