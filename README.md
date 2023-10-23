@@ -16,7 +16,7 @@ Payloads for BLE Advertising in Android devices
 {0x72FB00, "Soundcore Spirit Pro GVA"},
 
 
-- ## Bose NC 700<br>
+## Bose NC 700<br>
 ### Advertising data:<br>
 UUID: ```FE2C```<br>
 Data: ```CD8256```<br>
