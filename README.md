@@ -1,6 +1,21 @@
 # Tandroid-Payloads
 Payloads for BLE Advertising in Android devices
 
+- Example in nRF Connect App __(How it should look like in the App)__
+  - [Example Image](https://texploder.com/files/ex-payloads.jpg)
+
+- Devices:
+  - [Bose NC 700](#bose-nc-700)
+  - [JBL Buds Pro](#jbl-buds-pro)
+  - [JBL Live 300TWS](#jbl-live-300tws)
+  - [JBL Flip 6](#jbl-flip-6)
+  - [Pixel Buds](#pixel-buds)
+  - [Sony XM5](#sony-xm5)
+  - [Sony WF-1000XM4](#sony-wf-1000xm4)
+  - [Razer Hammerhead TWS](#razer-hammerhead-tws)
+  - [Razer Hammerhead TWS X](#razer-hammerhead-tws-x)
+  - [Soundcore Spirit Pro GVA](#soundcore-spirit-pro-gva)
+
 ---
 
 ## Bose NC 700 
